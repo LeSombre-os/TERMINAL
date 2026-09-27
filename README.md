@@ -3,11 +3,6 @@
 Simulateur de trading crypto temps réel + studio d'entraînement et de backtesting de bots,
 dans **un seul fichier HTML** (aucun build, aucune dépendance à installer).
 
-![single-file](https://img.shields.io/badge/fichier%20unique-index.html-yellow)
-![paper](https://img.shields.io/badge/fonds-100%25%20virtuels-green)
-![data](https://img.shields.io/badge/prix-Binance%20live-blue)
-![license](https://img.shields.io/badge/licence-%C3%A0%20d%C3%A9finir-lightgrey)
-
 > **Prix réels, argent fictif.** Les cours, le carnet d'ordres et le ruban viennent de Binance en direct.
 > Le capital, les positions et les PnL sont une simulation (paper trading) : aucun fonds réel,
 > aucun ordre réel.
